@@ -1,9 +1,10 @@
 #include<stdio.h>
 
-void name(){
- printf("naeem");
-}
+void full_name(){
+ int a = 10;
+ printf("Md Abdullah An Naeem");
+ }
 
 int main(){
-    name();
+    full_name();
 }
